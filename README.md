@@ -1,5 +1,4 @@
 # Hi, I am Zura156
-- 🔭 I’m currently working on Courses-ecomm
 - 🌱 I’m currently learning NestJS
 -  💬 Ask me about **Angular**
 - 📫 How to reach me zuragagnidze50@gmail.com

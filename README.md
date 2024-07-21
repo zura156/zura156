@@ -8,7 +8,7 @@
 <p align="left">
 <a href="https://www.facebook.com/profile.php?id=100018106004869" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zura gagnidze" height="30" width="40" /></a>
 <a href="https://instagram.com/zura__156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zura__156" height="30" width="40" /></a>
-<a href="https://discord.gg/guga1770" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="guga1770" height="30" width="40" /></a>
+<a href="https://discord.gg/zura014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="guga1770" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:

@@ -1,5 +1,5 @@
 # Hi, I am Zura156
-- 🌱 I’m currently learning NestJS
+- 🦹‍♂️ I am **Fullstack developer**
 -  💬 Ask me about **Angular**
 - 📫 How to reach me zuragagnidze50@gmail.com
 

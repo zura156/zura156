@@ -1,6 +1,5 @@
 # Hi, I am Zura156
 - 🦹‍♂️ I am **Fullstack developer**
-- 💬 Ask me about **Angular**
 - 📫 How to reach me zuragagnidze50@gmail.com
 
 
@@ -9,7 +8,6 @@
 <a href="https://www.linkedin.com/in/zurabi-gagnidze/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zura156" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100018106004869" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zura gagnidze" height="30" width="40" /></a>
 <a href="https://instagram.com/zura__156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zura156" height="30" width="40" /></a>
-<a href="https://discord.gg/zura014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zura156" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:

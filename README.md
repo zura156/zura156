@@ -33,10 +33,10 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zura014&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Zura014&theme=nightowl&hide_border=true)<br/>
-<!-- ![](https://github-readme-stats.vercel.app/api?username=Zura014&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)-->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zura156&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=zura156&theme=nightowl&hide_border=true)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=zura156&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)-->
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Zura014&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=zura156&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
